@@ -1,4 +1,4 @@
-// MIT License:
+// MIT License: gg 
 //
 // Copyright (c) 2010-2013, Joe Walnes
 //               2013-2017, Drew Noakes
